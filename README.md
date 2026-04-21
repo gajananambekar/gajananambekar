@@ -77,11 +77,7 @@ I enjoy designing backend systems, optimizing performance, and building responsi
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
